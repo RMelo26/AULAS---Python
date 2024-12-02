@@ -20,5 +20,3 @@
 #     print("ContaBancaria01 é maior e possui credito")
 # else:
 #      print("ContaBancaria 02 é maior")
-
-L
