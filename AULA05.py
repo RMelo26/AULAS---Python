@@ -8,7 +8,6 @@ Carrinho = []
 
 while Bandeira == "continue":
     os.system("cls")
-    # Carrinho do cliente
     
     print("Produtos disponiveis")
     for i in range(len(ListaProdutos)):
