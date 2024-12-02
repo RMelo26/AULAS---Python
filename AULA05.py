@@ -6,9 +6,10 @@ PrecoProdutos = [None,2.00,0.90,None]
 Bandeira = "continue"
 Carrinho = []
 
+Vetor_produtos_vendidos = []
+
 while Bandeira == "continue":
     os.system("cls")
-    # Carrinho do cliente
     
     print("Produtos disponiveis")
     for i in range(len(ListaProdutos)):
